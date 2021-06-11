@@ -1,0 +1,1 @@
+[{"id":"178046f2.82bd69","type":"cloudant out","z":"ad079ea0.1f9ba","name":"","cloudant":"","database":"assgn7","service":"rachana-cloudant-1621615788048-22131","payonly":true,"operation":"insert","x":480,"y":300,"wires":[]}]
